@@ -2,3 +2,7 @@ GOOGLE_SHEET_NAME=New Prospect Intake
 HAWKSOFT_USERNAME=your-vendor-username
 HAWKSOFT_PASSWORD=your-vendor-password
 HAWKSOFT_AGENCY_ID=your-agency-id
+EZLYNX_APP_SECRET=your-app-secret
+EZLYNX_USERNAME=your-ezlynx-username
+EZLYNX_PASSWORD=your-ezlynx-password
+EZLYNX_API_URL=https://api.ezlynx.com/
